@@ -9,7 +9,9 @@
 
 - 🌱 I’m currently learning **JavaScript, CSS, HTML, React and many other interesting technologies**
 
-- 👨‍💻 All of my projects are available at: [https://vasiliygroo.github.io/look/](https://vasiliygroo.github.io/look/), [https://lawyerageeva.ru](https://lawyerageeva.ru)
+- 👨‍💻 All of my projects are available at: 
+- [https://vasiliygroo.github.io/look/](https://vasiliygroo.github.io/look/); 
+- [https://lawyerageeva.ru](https://lawyerageeva.ru)
 
 - 📝 I regularly write articles on [https://www.instagram.com/vasiliy_gru/](https://www.instagram.com/vasiliy_gru/)
 
