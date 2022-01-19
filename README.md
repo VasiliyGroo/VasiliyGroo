@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vasiliygroo" alt="vasiliygroo" /></a> </p>
 
-- 🔭 I’m currently working on [Look](https://github.com/VasiliyGroo/look)
+- 🔭 I’m currently working on [Юрист Ксения Агеева | Lawyer Ksenia Ageeva](https://lawyerageeva.ru)
 
 - 🌱 I’m currently learning **JavaScript, CSS, HTML, React and many other interesting technologies**
 
 - 👨‍💻 All of my projects are available at: 
-1. [https://vasiliygroo.github.io/look/](https://vasiliygroo.github.io/look/); 
-2. [https://lawyerageeva.ru](https://lawyerageeva.ru)
+1. [https://lawyerageeva.ru](https://lawyerageeva.ru) (Lawyer's website)
+2. [https://vasiliygroo.github.io/look/](https://vasiliygroo.github.io/look/) (Educational project on the development of movie search) 
 
 - 📝 I regularly write articles on [https://www.instagram.com/vasiliy_gru/](https://www.instagram.com/vasiliy_gru/)
 
