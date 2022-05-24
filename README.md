@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vasiliy Grudinin</h1>
-<h3 align="center">A passionate frontend developer from Russia</h3>
+<h3 align="center">Junior frontend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vasiliygroo&label=Profile%20views&color=0e75b6&style=flat" alt="vasiliygroo" /> </p>
 
@@ -12,8 +12,6 @@
 - 👨‍💻 All of my projects are available at: 
 1. [https://lawyerageeva.ru](https://lawyerageeva.ru) (Lawyer's website)
 2. [https://vasiliygroo.github.io/look/](https://vasiliygroo.github.io/look/) (Educational project on the development of movie search) 
-
-- 📝 I regularly write articles on [https://www.instagram.com/vasiliy_gru/](https://www.instagram.com/vasiliy_gru/)
 
 - 📫 How to reach me **gruvasiliy95@mail.ru**
 
