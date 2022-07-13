@@ -2,7 +2,7 @@
 <h3 align="center">Frontend developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vasiliygroo&label=Profile%20views&color=0e75b6&style=flat" alt="vasiliygroo" /> </p>
 
-- 🔭 I’m currently working on [Юрист Ксения Агеева | Lawyer Ksenia Ageeva](https://lawyerageeva.ru)
+- 🔭 Сurrently I have finished the website [Lawyer Ksenia Ageeva | Lawyer Ksenia Ageeva] (https://lawyerageeva.ru)
 
 - 🌱 I’m currently learning **JavaScript, CSS, HTML, Vue, Laravel and many other interesting technologies**
 
