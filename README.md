@@ -9,6 +9,7 @@
 - 👨‍💻 All of my projects are available at: 
 1. [https://lawyerageeva.ru](https://lawyerageeva.ru) (Lawyer's website)
 2. [https://vasiliygroo.github.io/look/](https://vasiliygroo.github.io/look/) (Educational project on the development of movie search) 
+3. [https://vasiliygroo.github.io/service/](https://vasiliygroo.github.io/service/) (A service for my lawyer wife. This service creates a legal document in docx format from the form data) 
 
 - 📫 How to reach me **gruvasiliy95@mail.ru**
 
