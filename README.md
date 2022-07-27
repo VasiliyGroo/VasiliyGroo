@@ -3,6 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vasiliygroo&label=Profile%20views&color=0e75b6&style=flat" alt="vasiliygroo" /> </p>
 
 Рассматриваю смену профессии в сторону фронтенд-разработки. Закончил курс по Frontend-разработке Университета Иннополис, во время учебы изучал JS / React / Vue и сейчас ищу возможность применить знания на практике. Готов выполнить тестовое задание, чтобы продемонстрировать уровень навыков.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vasiliygroo&label=Profile%20views&color=0e75b6&style=flat" alt="vasiliygroo" /> </p>
 
 Контакты
 
@@ -11,6 +12,7 @@
 <a href="https://www.linkedin.com/in/vasiliy-grudinin-495565217/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vasiliy grudinin" height="20" width="30" /></a>
 <a href="https://stackoverflow.com/users/16061517" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="438303" height="20" width="30" /></a>
 </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vasiliygroo&label=Profile%20views&color=0e75b6&style=flat" alt="vasiliygroo" /> </p>
 
 - 🔭 Сurrently I have finished the website [Lawyer Ksenia Ageeva | Lawyer Ksenia Ageeva] (https://lawyerageeva.ru)
 
