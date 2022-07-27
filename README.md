@@ -13,6 +13,7 @@
 </p>
 
 <h3 align="center">Профессиональные навыки:</h3>
+
 - опыт работы с HTML5, CSS3, JS;
 
 - знание JavaScript/Vue.js/Vite.js;
