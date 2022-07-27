@@ -2,6 +2,13 @@
 <h3 align="center">Frontend разработчик</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vasiliygroo&label=Profile%20views&color=0e75b6&style=flat" alt="vasiliygroo" /> </p>
 
+Рассматриваю смену профессии в сторону фронтенд-разработки. Закончил курс по Frontend-разработке Университета Иннополис, во время учебы изучал JS / React / Vue и сейчас ищу возможность применить знания на практике. Готов выполнить тестовое задание, чтобы продемонстрировать уровень навыков.
+
+Контакты
+
+- Москва
+
+
 - 🔭 Сurrently I have finished the website [Lawyer Ksenia Ageeva | Lawyer Ksenia Ageeva] (https://lawyerageeva.ru)
 
 - 🌱 I’m currently learning **JavaScript, CSS, HTML, Vue, Laravel and many other interesting technologies**
