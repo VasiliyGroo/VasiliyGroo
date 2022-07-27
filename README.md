@@ -15,7 +15,7 @@
 
 <h3 align="left">Профессиональные навыки:</h3>
 
-- опыт работы с HTML5, CSS3, JS; 
+- опыт работы с HTML5, CSS3, JS, Git; 
 
 - знание JavaScript/Vue.js/Vite.js;
 
