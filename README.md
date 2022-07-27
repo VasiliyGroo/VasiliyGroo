@@ -8,6 +8,7 @@
 
 - Москва
 - 📫 **gruvasiliy95@mail.ru** <p align="left">
+- Мое резюме на [HH.ru](https://hh.ru/resume/91a24620ff08621ce80039ed1f54707a444765)
 <a href="https://www.linkedin.com/in/vasiliy-grudinin-495565217/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vasiliy grudinin" height="20" width="30" /></a>
 <a href="https://stackoverflow.com/users/16061517" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="438303" height="20" width="30" /></a>
 </p>
