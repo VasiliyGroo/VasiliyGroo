@@ -81,6 +81,8 @@
 
 <h3 align="left">Проекты можно посмотреть в моих репозиториях на GitHub:</h3>
 
+[Мои репозитории](https://github.com/VasiliyGroo?tab=repositories)
+
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
