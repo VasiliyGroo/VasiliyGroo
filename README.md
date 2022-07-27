@@ -55,9 +55,20 @@
 
 2017, Экономика и управление, Управление инновационными проектами
 
-- 🔭 Сurrently I have finished the website [Lawyer Ksenia Ageeva | Lawyer Ksenia Ageeva] (https://lawyerageeva.ru)
+<h3 align="left">Предыдущий опыт работы:</h3>
 
-- 🌱 I’m currently learning **JavaScript, CSS, HTML, Vue, Laravel and many other interesting technologies**
+<h4><strong>ИП Агеева Ксения Альбертовна</strong></h4>
+
+2020 - по н.в., Frontend-разработчик
+
+<h4><strong>Т1 Консалтинг</strong></h4>
+
+2020 - по н.в., Менеджер портфеля проектов
+
+<h4><strong>Российские железные дороги</strong></h4>
+
+2019, Ведущий инженер
+
 
 - 👨‍💻 All of my projects are available at: 
 1. [https://lawyerageeva.ru](https://lawyerageeva.ru) (Lawyer's website)
