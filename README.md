@@ -12,7 +12,7 @@
 <a href="https://stackoverflow.com/users/16061517" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="438303" height="20" width="30" /></a>
 </p>
 <br>
-<br>
+
 <h3 align="left">Профессиональные навыки:</h3>
 
 - опыт работы с HTML5, CSS3, JS, Git; 
@@ -37,13 +37,19 @@
 
 - знание синтаксиса других языков программирования и фреймворков к ним (Java, PHP/Laravel 8).
 
+<br>
+
 <h3 align="left">Инструменты для работы:</h3>
 
 Использую macOS Monterey в качестве рабочей системы с установленным Homebrew, Node.js и различными иструментами для разработчика. В качестве редактора кода использую Visual Studio Code с различными плагинами для удобства написания и редактирования кода.
 
+<br>
+
 <h3 align="left">Английский:</h3>
 
 Уровень B1, Средний. Читаю техническую документацию, периодически используя Яндекс Переводчик.
+
+<br>
 
 <h3 align="left">Образование:</h3>
 
@@ -54,6 +60,8 @@
 <h4><strong>Московский государственный технический университет "МАМИ", Москва</strong></h4>
 
 2017, Экономика и управление, Управление инновационными проектами
+
+<br>
 
 <h3 align="left">Предыдущий опыт работы:</h3>
 
@@ -69,7 +77,7 @@
 
 2019, Ведущий инженер
 
-
+<br>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://ru.vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
