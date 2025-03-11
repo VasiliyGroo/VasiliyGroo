@@ -18,6 +18,7 @@
 — Вносить вклад в развитие компании, предлагая идеи и решения для улучшения продукта.
 
 <h3 align="left">Контакты</h3>
+
 - Telegram - [@basilgru](https://t.me/basilgru)
 - Email **gruvasiliy95@mail.ru** 
 - CV [HH.ru](https://hh.ru/resume/91a24620ff08621ce80039ed1f54707a444765)
